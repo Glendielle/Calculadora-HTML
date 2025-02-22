@@ -80,8 +80,8 @@
 
             <button class="button" onclick="appendNumber('0')">0</button>
             <button class="button" onclick="appendNumber('.')">.</button>
-            <button class="button" onclick="clearDisplay(C)">C</button>
-            <button class="button equal" onclick="compute(=)">=</button>
+            <button class="button" onclick="clearDisplay()">C</button>
+            <button class="button equal" onclick="compute()">=</button>
             <button class="button operator" onclick="chooseOperation('+')">+</button>
         </div>
     </div>
