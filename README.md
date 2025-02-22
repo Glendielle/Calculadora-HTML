@@ -68,17 +68,17 @@
             <button class="button" onclick="appendNumber('9')">9</button>
             <button class="button operator" onclick="chooseOperation('/')">/</button>
 
-<button class="button" onclick="appendNumber('4')">4</button>
+            <button class="button" onclick="appendNumber('4')">4</button>
             <button class="button" onclick="appendNumber('5')">5</button>
             <button class="button" onclick="appendNumber('6')">6</button>
             <button class="button operator" onclick="chooseOperation('*')">*</button>
 
-<button class="button" onclick="appendNumber('1')">1</button>
+            <button class="button" onclick="appendNumber('1')">1</button>
             <button class="button" onclick="appendNumber('2')">2</button>
             <button class="button" onclick="appendNumber('3')">3</button>
             <button class="button operator" onclick="chooseOperation('-')">-</button>
 
-<button class="button" onclick="appendNumber('0')">0</button>
+            <button class="button" onclick="appendNumber('0')">0</button>
             <button class="button" onclick="appendNumber('.')">.</button>
             <button class="button" onclick="clearDisplay()">C</button>
             <button class="button equal" onclick="compute()">=</button>
